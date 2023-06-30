@@ -70,6 +70,10 @@ South China University of Technology
 
 (8) train_nonkey_dumhan.py is the non-key frame training code
 
+# Check_point path
+
+The Google Drive link of the model (https://drive.google.com/drive/folders/1QLAyTIzyuKzpm512ZMxWdCAMPdCEqC5r)
+
 ## Citation
 
 If you find the code helpful in your resarch or work, please cite the following papers.
